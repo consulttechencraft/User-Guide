@@ -361,4 +361,3 @@ graph TB
 
 ---
 
-🎉 **That's it!** Your frontend is now ready to work with Supabase. The combination of the anon key and RLS policies ensures your data stays secure while giving you full flexibility in your frontend application.
